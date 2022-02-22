@@ -16,22 +16,23 @@ body {
 .left {
     width: 250px;
     background-image: url(../images/signin2.jpg);
-    background-size: 190%;
+    background-size: 100%;
     transition: 1s;
 
 }
 .right {
     width: 250px;
     background-image: url(../images/signin.jpg);
-    background-size: 190%;
+    background-size: 100%;
     transition: 1s;
 }
 .right:hover {
     background-image: url(../images/signin2.jpg);
+    background-size: 100%;
 } 
 .left:hover {
     background-image: url(../images/signin.jpg);
-
+    background-size: 100%;
 } 
 .center {
     height: 650px;
