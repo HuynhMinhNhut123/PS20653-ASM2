@@ -15,22 +15,22 @@ body {
 }
 .left {
     width: 250px;
-    background-image: url(/images/signin2.jpg);
+    background-image: url(../images/signin2.jpg);
     background-size: 190%;
     transition: 1s;
 
 }
 .right {
     width: 250px;
-    background-image: url(/images/signin.jpg);
+    background-image: url(../images/signin.jpg);
     background-size: 190%;
     transition: 1s;
 }
 .right:hover {
-    background-image: url(/images/signin2.jpg);
+    background-image: url(../images/signin2.jpg);
 } 
 .left:hover {
-    background-image: url(/images/signin.jpg);
+    background-image: url(../images/signin.jpg);
 
 } 
 .center {
